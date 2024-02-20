@@ -26,6 +26,6 @@ IRIS System Management Portal
 ```
 http://localhost:42773/csp/sys/UtilHome.csp
 ```
-## What does it do
-Presents OEX package [MDX2JSON](https://github.com/intersystems-community/Cache-MDX2JSON) using actiual IPM package  
-All user documentation is found in the original repo      
+### How to use it
+This presents OEX package [MDX2JSON](https://github.com/intersystems-community/Cache-MDX2JSON) using the actual IPM module    
+All user documentation is found there in the [original repo](https://github.com/intersystems-community/Cache-MDX2JSON/blob/master/README.md)  
