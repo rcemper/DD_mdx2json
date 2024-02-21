@@ -1,4 +1,4 @@
-# MDX2JSON-docker
+# Docker-Demo: mdx2json
 The OEX package just uses a modest IRIS instance in Docker     
 It merges IPM package of MDX2JSON with some demo data    
 It is built using the small [Mini-Docker-Template](https://github.com/r-cemper/mini-docker)    
